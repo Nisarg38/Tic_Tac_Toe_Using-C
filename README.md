@@ -1,4 +1,4 @@
-# TIC TAC TOE WITH C LANGUAGE 
+# TIC TAC TOE USING C LANGUAGE 
 
 In this assigment we want to create a computer program that allows two people to play a variation of "Tic Tac Toc" with each other.
 The rules are simple: Tic Tac Toe is played on an N by N grid. Two players play, one can place X’s on the board, the other O’s. The player who obtains N X’s (or N O’s) in a row – vertical, horizontal, or diagonal – wins. The program should be able to handle N =3, 4, 5, …, 8.
